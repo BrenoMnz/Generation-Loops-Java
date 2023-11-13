@@ -28,7 +28,7 @@ Uma empresa desenvolveu uma pesquisa interna para conhecer os colaboradores da �
 <ul>
   <li>Idade (Número inteiro)</li>
   <li>Identidade de Gênero (Número inteiro)</li>
-  <ol>
+  <ol type="1">
     <li>Mulher Cis</li>
     <li>Homem Cis</li>
     <li>Não Binário</li>
@@ -37,7 +37,7 @@ Uma empresa desenvolveu uma pesquisa interna para conhecer os colaboradores da �
     <li>Outros</li>
   </ol>
   <li>Pessoa Desenvolvedora (Número Inteiro)</li>
-  <ol>
+  <ol type="1">
     <li>Backend</li>
     <li>Frontend</li>
     <li>Mobile</li>
