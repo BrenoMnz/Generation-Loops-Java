@@ -1,7 +1,7 @@
 # Generation-Loops-Java
 Exercícios com estruturas de loop em Java para o bootcamp Generation Brasil 
 
-## [Exercício "Múltiplos de 3 e 5"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/MultiplosDeTresECinco.java){target="_blank"}
+## [Exercício "Múltiplos de 3 e 5"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/MultiplosDeTresECinco.java)
 Escreva um algoritmo em Java, que leia 2 números inteiros via teclado, onde o primeiro número deve ser menor do que o segundo número. Caso contrário, deve ser exibida uma mensagem na tela informando que o intervalo é inválido e sair do programa. 
 No intervalo informado, mostre na tela todes os números que são múltiplos de 3 e 5.
 Na construção do Algoritmo, utilize os seguintes conteúdos:
@@ -9,21 +9,21 @@ Na construção do Algoritmo, utilize os seguintes conteúdos:
   <li>Laço de Repetição FOR</li>
 </ul>
 
-## [Exercício "Quantidade de pares e ímpares"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/QtdParEImpar.java){target="_blank"}
+## [Exercício "Quantidade de pares e ímpares"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/QtdParEImpar.java)
 Escreva um algoritmo em Java, que leia 10 números inteiros via teclado e mostre na tela quantos números são pares e quantos número são ímpares.
 Na construção do Algoritmo, utilize os seguintes conteúdos:
 <ul>
   <li>Laço de Repetição FOR</li>
 </ul>
 
-## [Exercício "Idades"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/Idades.java){target="_blank"}
+## [Exercício "Idades"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/Idades.java)
 Escreva um algoritmo em Java, que leia a idade de várias pessoas (números inteiros), via teclado e mostre na tela o total de pessoas cuja idade seja menor que 21 anos e o total de pessoas cuja idade seja maior que 50 anos. A leitura dos dados deve ser finalizada ao digitar uma idade negativa.
 Na construção do Algoritmo, utilize os seguintes conteúdos:
 <ul>
   <li>Laço de Repetição WHILE</li>
 </ul>
 
-## [Exercício "Colaboradores da Área de Desenvolvimento"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/ColaboradoresDesenvolvimento.java){target="_blank"}
+## [Exercício "Colaboradores da Área de Desenvolvimento"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/ColaboradoresDesenvolvimento.java)
 Uma empresa desenvolveu uma pesquisa interna para conhecer os colaboradores da área de Desenvolvimento e precisam de um sistema para analisar os dados. Escreva um algoritmo em Java, que leia via teclado as seguintes informações de cada colaborador:
 <ul>
   <li>Idade (Número inteiro)</li>
@@ -59,14 +59,14 @@ Na construção do Algoritmo, utilize os seguintes conteúdos:
   <li>Laço de Repetição WHILE</li>
 </ul>
 
-## [Exercício "Soma de Positivos"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/SomaDePositivos.java){target="_blank"}
+## [Exercício "Soma de Positivos"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/SomaDePositivos.java)
 Escreva um algoritmo em Java, que leia números inteiros via teclado, até que o número zero seja digitado. Ao final, mostre na tela a soma de todos os números digitados, que sejam positivos.
 Na construção do Algoritmo, utilize os seguintes conteúdos:
 <ul>
   <li>Laço de Repetição DO...WHILE</li>
 </ul>
 
-## [Exercício "Média dos Múltiplos de Três"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/MediaMultiplosDeTres.java){target="_blank"}
+## [Exercício "Média dos Múltiplos de Três"](https://github.com/BrenoMnz/Generation-Loops-Java/blob/main/LoopsJava/src/LoopsJava/MediaMultiplosDeTres.java)
 Escreva um algoritmo em Java, que leia números inteiros via teclado, até que o número zero seja digitado. Ao final, mostre na tela a média de todos os números digitados, que sejam múltiplos de 3.
 Na construção do Algoritmo, utilize os seguintes conteúdos:
 <ul>
